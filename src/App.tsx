@@ -1,6 +1,6 @@
 import { Suspense, useState } from "react";
 import Banner from "./components/Banner";
-import './App.css'
+import './index.css'
 
 import Navbar from "./components/Navbar";
 import Technology from "./components/Technology";
