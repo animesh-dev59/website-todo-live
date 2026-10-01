@@ -7,7 +7,8 @@ import Technology from "./components/Technology";
 import YourStack from "./components/YourStack";
 import Footer from "./components/Footer";
 import type { CardType } from "./CardType";
-import { toast } from "react-toastify";
+import { toast, ToastContainer } from "react-toastify";
+import Text from "./components/Test";
 
 
 const technologiseFetch = async (): Promise<CardType[]> => {

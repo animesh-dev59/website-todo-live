@@ -9,12 +9,7 @@ const Footer = () => {
             Curated tools, technologies, and resources for developers building <br />
             modern software.
           </p>
-          <ul className="flex gap-5 font-bold py-2">
-            <li>GitHub</li>
-            <li>Twiter</li>
-            <li>Linkedin</li>
-          </ul>
-        </div>
+         
           
        
       </footer> */}
